@@ -8,11 +8,14 @@
 
 ### 🚀 Public projects
 
-**Uplatnica**
-🌐 [Web](https://www.uplatnica.in.rs/)
+**Domato**
+🍎 [iOS](https://apps.apple.com/us/app/domato/id6795912555)
 
 **Dutch Tax Calculator**
 🌐 [Web](https://www.tax-calculator.nl/) &nbsp;·&nbsp; 🍎 [iOS](https://apps.apple.com/us/app/dutch-tax-calculator/id6786703264) &nbsp;·&nbsp; 🤖 Android (coming soon)
+
+**Uplatnica**
+🌐 [Web](https://www.uplatnica.in.rs/)
 
 ~~[kitapkiyas.com](https://kitapkiyas.com)~~ — book database affiliate site, currently down
 
@@ -20,7 +23,6 @@
 
 ### 🔧 In progress
 
-- **Domato** — Pomodoro timer app (React Native)
 - **Inburgering Exam Prep** — iOS app to study for the Dutch citizenship exam
 - **Serbian Expense Tracker** — iOS app that scans Serbian fiscal receipt QR codes to track expenses
 
