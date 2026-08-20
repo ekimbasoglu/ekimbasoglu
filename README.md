@@ -23,6 +23,7 @@
 
 ### 🔧 In progress
 
+- **Espresso Bar** — Godot 4 pixel-art mobile game about running a small specialty coffee bar, blending drink-making, customer dialogue, rent pressure, and branching story choices
 - **Inburgering Exam Prep** — iOS app to study for the Dutch citizenship exam
 - **Serbian Expense Tracker** — iOS app that scans Serbian fiscal receipt QR codes to track expenses
 
